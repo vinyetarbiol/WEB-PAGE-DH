@@ -1,3 +1,3 @@
 # WEB-PAGE-DH
 Museus de Barcelona. 
--art   -esport  -
+- Ruta històrica-artística pels museus de la ciutat de Barcelona

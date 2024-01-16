@@ -32,6 +32,7 @@ Museu d’Història de Catalunya (Xavier)
 MUHBA - (Vinyet)
 Museu de cultures del món (Etnogràfic)- (Paula)
 Museu dels Jocs olímpics - (Pau)
+Museu d'arqueologia - (Selena)
 
 
 **MODERNISME**
